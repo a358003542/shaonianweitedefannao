@@ -1,12 +1,9 @@
 ---
 title: "少年维特的烦恼"
-creator:
-- role: translator
-  text: 翻译：韩耀成
-- role: editor
-  text: 编者：万泽
-date: "2019-12-05"
-subject: [文学, 小说]
-lang: zh
+author: "歌德"
+creator: "Wander"
+date: "2025-05-19"
+subject: "文学.小说"
+lang: zh-hans
 css: epub.css
-cover-image: cover.jpg
+cover-image: book_cover.jpg
